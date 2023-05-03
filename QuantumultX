@@ -1,9 +1,6 @@
 # QuantumultX 懒人配置DIY版 【作者】Jobrst 【更新日期】2023/5/3
 # 更新日志：
-# 1、增加韩国策略组、TikTok策略组
-# 2、移除网易云音乐相关策略组及分流规则
-# 3、增加策略组图标
-# 4、增加部分重写订阅、增加TikTok解锁对应分流规则及重写规则
+# 1、增加Gv策略组、TikTok策略组
 
 [general]
 dns_exclusion_list=*.cmpassport.com, *.jegotrip.com.cn, *.icitymobile.mobi, id6.me, *.pingan.com.cn
