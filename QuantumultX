@@ -31,7 +31,8 @@ url-latency-benchmark=美国, server-tag-regex=(?=.*(美国|美國|US|洛杉矶|
 static=漏网之鱼, 节点选择, 自动选择, 香港, 台湾, 日本, 韩国, 新加坡, 美国, PROXY, DIRECT, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Final.png
 
 [server_remote]
-https://client.fhlsep.cn/api/v1/client/subscribe?token=8649a6753bc78b53adfc4eda74e84a49, tag=wua, update-interval=172800, opt-parser=true, enabled=true
+
+
 [filter_remote]
 https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Ruleset/Direct+.list, tag=直连修正, force-policy=direct, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Ruleset/Extra/Reject/Advertising.list, tag=广告拦截, force-policy=reject, update-interval=172800, opt-parser=true, enabled=true
